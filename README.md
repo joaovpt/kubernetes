@@ -104,6 +104,7 @@ frontend/index.html
 Preencha e envie o formulário. Os dados são enviados ao backend e salvos no banco MySQL.
 
 🧪 Consultando o banco de dados
+
 Conecte-se ao pod MySQL:
 ```
 

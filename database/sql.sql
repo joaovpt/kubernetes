@@ -1,6 +1,6 @@
 CREATE TABLE mensagens (
-    id int;
-    nome varchar(50),
-    email varchar(50),
-    comentario varchar(100)
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(50),
+    email VARCHAR(50),
+    comentario VARCHAR(100)
 );
